@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-%matplotlib inline
 import numpy as np
 
 # On some implementations of matplotlib, you may need to change this value
